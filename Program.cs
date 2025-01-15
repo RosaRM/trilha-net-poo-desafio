@@ -12,7 +12,7 @@ tijolo.InstalarAplicativo("Spotfy");
 
 Console.WriteLine("Testes para o Iphone");
 
-Iphone maca = new Iphone(128 , "+55 21 98765-4321" , "iPhone 13 Pro" , "358234098765432");
-maca.Ligar();
-maca.ReceberLigacao();
-maca.InstalarAplicativo("Subway Surf");
+Iphone maça = new Iphone(128 , "+55 21 98765-4321" , "iPhone 13 Pro" , "358234098765432");
+maça.Ligar();
+maça.ReceberLigacao();
+maça.InstalarAplicativo("Subway Surf");
